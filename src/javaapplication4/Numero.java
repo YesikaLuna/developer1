@@ -9,5 +9,6 @@ package javaapplication4;
  * @author modelo
  */
 public class Numero {
+    /**ATRIBUTOS PRIVADOS*/
     
 }
