@@ -11,5 +11,6 @@ package javaapplication4;
 public class Numero {
     /**ATRIBUTOS PRIVADOS*/
     /*********BVCBCVBV BCV******/
+    /***********OTRO***/
     
 }
